@@ -1,0 +1,11 @@
+{
+  "name": "gh-dependabot-test",
+  "version": "1.0.0",
+  "description": "This is a repo with a lot of vulnerabilities",
+  "main": "index.js",
+  "author": "jusio <jusioa@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "7.0.0"
+  }
+}
